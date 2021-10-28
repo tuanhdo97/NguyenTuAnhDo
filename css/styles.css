@@ -1,0 +1,173 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Zen Kurenaido', sans-serif;
+  font-size: 150%
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #212121;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Zen Kurenaido', sans-serif;
+  font-size: 2.5rem;
+  color: #212121;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E
+}
+
+a {
+  color: #11999E;
+  font-family: Montserrat;
+  margin-right: 30px;
+  text-decoration: none;
+}
+
+a:hover {
+    color: #316B83;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+  clear: right;
+}
+
+.top-container {
+  background-color: #CEE5D0;
+  position: relative;
+  padding-top: 100px;
+
+
+}
+
+.middle-container {
+  padding-top: 20px;
+}
+
+.bottom-container {
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.profile-picture {
+  width: 20%;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+.copyright {
+  color: #316B83;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.java-image {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.python-image {
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+.c-image {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.web-image {
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.BUTTON_MSQ {
+   background: #6D9886;
+   background-image: -webkit-linear-gradient(top, #6D9886, #11999E);
+   background-image: -moz-linear-gradient(top, #6D9886, #11999E);
+   background-image: -ms-linear-gradient(top, #6D9886, #11999E);
+   background-image: -o-linear-gradient(top, #6D9886, #11999E);
+   background-image: -webkit-gradient(to bottom, #6D9886, #11999E);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: Montserrat;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 10px;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 30px;
+}
+
+.BUTTON_MSQ:hover {
+   border: solid #5CB690 1px;
+   background: #5CB690;
+   background-image: -webkit-linear-gradient(top, #5CB690, #5CB690);
+   background-image: -moz-linear-gradient(top, #5CB690, #5CB690);
+   background-image: -ms-linear-gradient(top, #5CB690, #5CB690);
+   background-image: -o-linear-gradient(top, #5CB690, #5CB690);
+   background-image: -webkit-gradient(to bottom, #5CB690, #5CB690);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #CEE5D0;
+  padding: 50px 0 20px;
+}
